@@ -2,7 +2,7 @@
 
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 import useMediaQuery from "@/hooks/useMediaQuery";
-import logo from "@/public/assets/logo.png";
+import logo from "/public/assets/logo.png";
 import ActionButton from "@/shared/actionButton";
 import { SelectedPage } from "@/shared/types";
 import Image from "next/image";

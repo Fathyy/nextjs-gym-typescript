@@ -1,10 +1,10 @@
 import { ClassType, SelectedPage } from "@/shared/types";
-import image1 from "@/public/assets/image1.png";
-import image2 from "@/public/assets/image2.png";
-import image3 from "@/public/assets/image3.png";
-import image4 from "@/public/assets/image4.png";
-import image5 from "@/public/assets/image5.png";
-import image6 from "@/public/assets/image6.png";
+import image1 from "/public/assets/image1.png";
+import image2 from "/public/assets/image2.png";
+import image3 from "/public/assets/image3.png";
+import image4 from "/public/assets/image4.png";
+import image5 from "/public/assets/image5.png";
+import image6 from "/public/assets/image6.png";
 import Class from "./class";
 import { motion } from "framer-motion";
 import HText from "@/shared/Htext";
