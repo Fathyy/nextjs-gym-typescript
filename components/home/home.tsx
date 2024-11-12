@@ -2,7 +2,7 @@ import { SelectedPage } from "@/shared/types";
 import useMediaQuery from "@/hooks/useMediaQuery";
 import Image from "next/image";
 import HomePageText from "@/public/assets/HomePageText.png";
-import HomePageGraphic from "@/public/assets/homePageGraphic.png";
+import HomePageGraphic from "@/public/assets/HomePageGraphic.png";
 import SponsorRedBull from "@/public/assets/SponsorRedBull.png";
 import SponsorForbes from "@/public/assets/SponsorForbes.png";
 import SponsorFortune from "@/public/assets/SponsorFortune.png";
