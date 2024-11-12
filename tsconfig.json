@@ -20,7 +20,9 @@
     "baseUrl": ".",  // Ensure this is present
     "paths": {
       "@/components/*": ["components/*"],
-      "@/public/*": ["public/*"]
+      "@/public/*": ["public/*"],
+      "@/shared/*": ["shared/*"],
+      "@/hooks/*": ["hooks/*"]  
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],

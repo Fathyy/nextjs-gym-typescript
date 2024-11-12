@@ -16,5 +16,5 @@ export enum SelectedPage {
   export interface ClassType {
     name: string;
     description?: string;
-    image: StaticImageData;
+    image: string | StaticImageData;
   }

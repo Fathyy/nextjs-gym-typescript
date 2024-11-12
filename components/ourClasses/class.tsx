@@ -1,10 +1,10 @@
-import Image from "next/image";
+import Image, { StaticImageData } from "next/image";
 import React from "react";
 
 type Props = {
     name: string;
     description?: string;
-    image: string;
+    image: string | StaticImageData;
   };
 
 function Class({ name, description, image }: Props) {
